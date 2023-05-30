@@ -2,6 +2,8 @@
 
 ***Colaboration with [UrMBCMRabbont](https://github.com/UrMBCMRabbont)***
 
+*The Final Project 2 of HKUST ELEC4010N - Artificial Intelligence for Medical Image Analysis*
+
 Implementing domain generalization of multi-class segmentation on fundus images segmentation dataset by Fourier Augmented Co-Teacher (FACT) model and U-Net.
 
 For more high-level details, read the Project 1 part of the [presentation slides](./Presentation.pdf) and the [report](./Report.pdf).
