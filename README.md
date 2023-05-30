@@ -6,7 +6,7 @@
 
 Implementing domain generalization of multi-class segmentation on fundus images segmentation dataset by Fourier Augmented Co-Teacher (FACT) model and U-Net.
 
-For more high-level details, read the Project 1 part of the [presentation slides](./Presentation.pdf) and the [report](./Report.pdf).
+For more high-level details, read the Project 2 part of the [presentation slides](./Presentation.pdf) and the [report](./Report.pdf).
 
 There are many different combinations of results, but in general, the mean Dice, OC test ASD and OD test ASD are improved.
 
