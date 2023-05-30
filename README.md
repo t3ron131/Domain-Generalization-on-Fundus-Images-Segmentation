@@ -31,7 +31,7 @@ Install the additional libraries by:
 !pip install surface-distance/
 ```
 
-For the requirements of `segmentation-models-pytorch`, install the packages by `!pip install -r requirements.txt` or in the notebook:
+For the requirements of `segmentation-models-pytorch`, install the packages by `pip install -r requirements.txt` or in the notebook:
 
 ```python
 !pip install torchvision>=0.5.0
