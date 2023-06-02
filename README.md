@@ -45,40 +45,23 @@ For the requirements of `segmentation-models-pytorch`, install the packages by `
 These parts are included in the first two code cells in the notebook.
 
 ## Notebook Outline
-
-0: For Colab
-
-1: Import
-
-2: Fundus Dataset
-
-3: Segmentation Baseline
-
-- 3.1: U-Net
-
-- 3.2: Average Surface Distance (ASD)
-
-4: Baseline Experiment
-
-- 4.1: Training
-
-- 4.2: Results
-
-- 4.3: Evaluation
-
-5: FACT
-
-- 5.1: Utilities
-
-- 5.2: Fourier Augmentation
-
-- 5.3: Mean Teacher Model
-
-- 5.4: Training
-
-- 5.5: Results
-
-- 5.6: Evaluation
+0. For Colab
+1. Import
+2. Fundus Dataset
+3. Segmentation Baseline
+    1. U-Net
+    2. Average Surface Distance (ASD)
+4 Baseline Experiment
+    1. Training
+    2. Results
+    3. Evaluation
+5. FACT
+    1. Utilities
+    2. Fourier Augmentation
+    3. Mean Teacher Model
+    4. Training
+    5. Results
+    6. Evaluation
 
 ## Reference
 Wang, S., Yu, L., Li, K., Yang, X., Fu, C.-W., Heng, P.-A. (2020). DoFE: Domain-oriented Feature Embedding for
