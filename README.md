@@ -71,4 +71,4 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 (https://github.com/MediaBrain-SJTU/FACT)
 
 Laine, S., & Aila, T. (2017). Temporal Ensembling for Semi-Supervised Learning. International Conference on
-Learning Representations (ICLR). arXiv:1610.02242
+Learning Representations (ICLR). *arXiv:1610.02242*
