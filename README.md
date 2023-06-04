@@ -1,5 +1,4 @@
-# Domain-Generalization-on-Fundus-Images
-
+# Domain Generalization on Fundus Images Segmentation
 ***Colaboration with [UrMBCMRabbont](https://github.com/UrMBCMRabbont)***
 
 *The Final Project 2 of HKUST ELEC4010N - Artificial Intelligence for Medical Image Analysis*
@@ -11,7 +10,6 @@ For more high-level details, read the Project 2 part of the [presentation slides
 There are many different combinations of results, but in general, the mean Dice, OC test ASD and OD test ASD are improved.
 
 ## Prerequisites
-
 Download and unzip data from the link [Fundus dataset](https://drive.google.com/u/0/uc?id=1p33nsWQaiZMAgsruDoJLyatoq5XAH-TH&export=download).
 
 Place the `Fundus` folder (not `Fundus-doFE`)  into the main directory. If running in Colab, change the paths accordingly and run the following commands in the notebook:
@@ -45,7 +43,6 @@ For the requirements of `segmentation-models-pytorch`, install the packages by `
 These parts are included in the first two code cells in the notebook.
 
 ## Notebook Outline
-
 0. For Colab
 1. Import
 2. Fundus Dataset
@@ -65,7 +62,6 @@ These parts are included in the first two code cells in the notebook.
     6. Evaluation
 
 ## Reference
-
 Wang, S., Yu, L., Li, K., Yang, X., Fu, C.-W., Heng, P.-A. (2020). DoFE: Domain-oriented Feature Embedding for
 Generalizable Fundus Image Segmentation on Unseen Datasets. IEEE Transactions on Medical Imaging.
 (https://github.com/emma-sjwang/Dofe)
