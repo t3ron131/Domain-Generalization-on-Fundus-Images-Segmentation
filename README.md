@@ -45,6 +45,7 @@ For the requirements of `segmentation-models-pytorch`, install the packages by `
 These parts are included in the first two code cells in the notebook.
 
 ## Notebook Outline
+
 0. For Colab
 1. Import
 2. Fundus Dataset
@@ -64,6 +65,7 @@ These parts are included in the first two code cells in the notebook.
     6. Evaluation
 
 ## Reference
+
 Wang, S., Yu, L., Li, K., Yang, X., Fu, C.-W., Heng, P.-A. (2020). DoFE: Domain-oriented Feature Embedding for
 Generalizable Fundus Image Segmentation on Unseen Datasets. IEEE Transactions on Medical Imaging.
 (https://github.com/emma-sjwang/Dofe)
