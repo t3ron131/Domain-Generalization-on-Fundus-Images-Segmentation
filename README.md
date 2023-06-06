@@ -139,3 +139,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 
 Laine, S., & Aila, T. (2017). Temporal Ensembling for Semi-Supervised Learning. International Conference on
 Learning Representations (ICLR). *arXiv:1610.02242*
+
+Kim, T., Oh, J., Kim, N., Cho, S., & Yun, S. (2021). Comparing Kullback-Leibler Divergence and Mean
+Squared Error Loss in Knowledge Distillation. Proceedings of International Joint Conference on Artificial
+Intelligence (IJCAI). *arXiv:2105.08919*
