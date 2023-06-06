@@ -129,17 +129,14 @@ These parts are included in the first two code cells in the notebook.
     6. Evaluation
 
 ## Reference
-Wang, S., Yu, L., Li, K., Yang, X., Fu, C.-W., Heng, P.-A. (2020). DoFE: Domain-oriented Feature Embedding for
+- Wang, S., Yu, L., Li, K., Yang, X., Fu, C.-W., Heng, P.-A. (2020). DoFE: Domain-oriented Feature Embedding for
 Generalizable Fundus Image Segmentation on Unseen Datasets. IEEE Transactions on Medical Imaging.
 (https://github.com/emma-sjwang/Dofe)
-
-Xu, Q., Zhang, R., Zhang, Y., Wang, Y., Tian, Q. (2021). A Fourier-Based Framework for Domain Generalization. In
+- Xu, Q., Zhang, R., Zhang, Y., Wang, Y., Tian, Q. (2021). A Fourier-Based Framework for Domain Generalization. In
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
 (https://github.com/MediaBrain-SJTU/FACT)
-
-Laine, S., & Aila, T. (2017). Temporal Ensembling for Semi-Supervised Learning. International Conference on
+- Laine, S., & Aila, T. (2017). Temporal Ensembling for Semi-Supervised Learning. International Conference on
 Learning Representations (ICLR). *arXiv:1610.02242*
-
-Kim, T., Oh, J., Kim, N., Cho, S., & Yun, S. (2021). Comparing Kullback-Leibler Divergence and Mean
+- Kim, T., Oh, J., Kim, N., Cho, S., & Yun, S. (2021). Comparing Kullback-Leibler Divergence and Mean
 Squared Error Loss in Knowledge Distillation. Proceedings of International Joint Conference on Artificial
 Intelligence (IJCAI). *arXiv:2105.08919*
