@@ -7,7 +7,20 @@ Implementing domain generalization of multi-class segmentation on fundus images 
 
 For more high-level details, read the Project 2 part of the [presentation slides](./Presentation.pdf) and the [report](./Report.pdf).
 
-There are many different combinations of results, but in general, the mean Dice, OC test ASD and OD test ASD are improved.
+Results:
+
+| Train | Test | Model    | Mean Test Dice | OC Test ASD | OD Test ASD |
+|-------|------|----------|----------------|-------------|-------------|
+| 123   | 4    | Baseline | 0.5781         | 36.9649     | 27.7053     |
+| 123   | 4    | FACT     | **0.8730**     | **7.4794**  | **1.7167**  |
+| 124   | 3    | Baseline | 0.6057         | 35.9788     | 24.8685     |
+| 124   | 3    | FACT     | **0.9039**     | **6.2443**  | **0.6492**  |
+| 134   | 2    | Baseline | 0.6988         | 24.0777     | 15.9232     |
+| 134   | 2    | FACT     | **0.8527**     | **8.2105**  | **1.4624**  |
+| 234   | 1    | Baseline | 0.6376         | 30.5020     | 21.3653     |
+| 234   | 1    | FACT     | **0.8996**     | **5.3635**  | **1.2530**  |
+
+
 
 ## Prerequisites
 Download and unzip data from the link [Fundus dataset](https://drive.google.com/u/0/uc?id=1p33nsWQaiZMAgsruDoJLyatoq5XAH-TH&export=download).
