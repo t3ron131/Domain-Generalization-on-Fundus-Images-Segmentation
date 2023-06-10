@@ -116,7 +116,7 @@ These parts are included in the first two code cells in the notebook.
 3. Segmentation Baseline
     1. U-Net
     2. Average Surface Distance (ASD)
-4 Baseline Experiment
+4. Baseline Experiment
     1. Training
     2. Results
     3. Evaluation
